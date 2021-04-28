@@ -1,0 +1,9 @@
+name: GodMod
+main: GodMod\Main
+version: 1.0.0
+api: 3.0.0
+author: BurgerNightMax
+commands:
+  godmod:
+    description: active le god mod
+    permission: use.godmod
